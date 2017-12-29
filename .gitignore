@@ -1,0 +1,5 @@
+.idea
+
+### Vagrant ###
+.vagrant/
+*.box
